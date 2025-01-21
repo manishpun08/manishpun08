@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manishpun08](https://github.com/manishpun08)
 
-- 📝 I regularly write articles on [https://personal-portfolio-manish.netlify.app/](https://personal-portfolio-manish.netlify.app/)
+- 📝 I regularly write articles on [https://manishportfolios.netlify.app/](https://manishportfolios.netlify.app/)
 
 - 💬 Ask me about **react, node.js, mongodb, html, css, js.**
 
