@@ -1,141 +1,229 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Manish+Pun+Magar;Frontend-Focused+MERN+Developer;Building+Scalable+%26+Accessible+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Manish+Pun+Magar;Software+Engineer;Building+Scalable+%26+High-Performance+Web+Applications" alt="Typing SVG" />
 
 <p>
-  <a href="https://manishpunmagar.com.np"><img src="https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/manish-pun-magar-b3ba83245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manishpunmagar6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://manishpunmagar.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-2EA3F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/manish-pun-magar-b3ba83245/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manishpunmagar6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/manishpun08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
-<br/>
+---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Frontend-focused developer building **scalable, responsive web apps**
-- ⚛️ Strong in **React, Next.js, Tailwind CSS & Redux Toolkit**
-- 🎯 Passionate about **clean UI, performance & accessibility**
-- 🎨 Experience turning **Figma designs into pixel-perfect UI**
-- 🌱 Currently exploring **React Query & advanced Next.js patterns**
+I'm a **Software Engineer based in Kathmandu - Nepal**, focused on building scalable, responsive, and high-performance web applications.
 
-<br/>
+I specialize in **React, Next.js, TypeScript, and modern frontend architecture**, with experience working across e-commerce, EdTech, healthcare, corporate, and government platforms.
 
-### 🛠 Tech Stack
+* 🚀 Building production-ready applications with **React.js, Next.js & TypeScript**
+* 🧩 Designing **reusable component systems and modular frontend architectures**
+* ⚡ Improving performance through **code splitting, lazy loading, asset optimization & efficient data fetching**
+* 🔄 Working with **Redux Toolkit, TanStack Query & RTK Query** for state and server-state management
+* 🎨 Translating **Figma / Adobe XD designs into responsive, accessible interfaces**
+* 🔌 Integrating **REST APIs, GraphQL, payment gateways & real-time services**
+* 🧑‍💻 Experienced with **monorepos, CI/CD, Git workflows and code reviews**
+* 🤝 Mentoring junior developers and contributing to technical decisions
+* 🌱 Continuously improving my knowledge of **frontend architecture, performance and full-stack development**
 
-**Frontend**
+---
+
+## 🛠 Tech Stack
+
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-**State & Data**
+### State Management & Data Fetching
 
 <p>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
-**Backend**
+### Backend & Database
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
-**Tools**
+### APIs & Real-Time
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+</p>
+
+### UI, Animation & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
+</p>
+
+### Tools & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biome-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-<br/>
+---
 
-### 📌 Featured Projects
-
-<!-- For each project below: replace LIVE_LINK and REPO_LINK with real URLs.
-     If a project is client/employer work with no public repo, just remove that part of the line. -->
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 Vatsalya IVF</h4>
-      <p>Corporate web application for an IVF clinic — built for clarity, trust, and fast load times.</p>
-      <p><b>Role:</b> [YOUR_ROLE]</p>
-      <p><b>Tech:</b> <code>[TECH_1]</code> <code>[TECH_2]</code> <code>[TECH_3]</code></p>
-      <ul>
-        <li>[Key feature one]</li>
-        <li>[Key feature two]</li>
-        <li>[Key feature three]</li>
-      </ul>
-      <p>
-        <a href="LIVE_LINK">🔗 Live</a> · <a href="REPO_LINK">📂 Repo</a>
-      </p>
+
+### 🛒 Chynabazar — Omnicommerce Platform
+
+Full-featured e-commerce platform developed within a **modular monorepo architecture**.
+
+**Tech:** `Next.js` `Tailwind CSS` `Framer Motion` `NestJS` `PostgreSQL` `Prisma`
+
+* Built performant and reusable frontend interfaces
+* Integrated type-safe REST APIs
+* Worked with real-time **WebSocket** communication
+* Contributed to a scalable monorepo-based architecture
+
     </td>
+
     <td width="50%" valign="top">
-      <h4>⚡ Electricity Regulatory Commission (Nepal)</h4>
-      <p>Government regulatory platform serving public information and compliance workflows.</p>
-      <p><b>Role:</b> [YOUR_ROLE]</p>
-      <p><b>Tech:</b> <code>[TECH_1]</code> <code>[TECH_2]</code> <code>[TECH_3]</code></p>
-      <ul>
-        <li>[Key feature one]</li>
-        <li>[Key feature two]</li>
-        <li>[Key feature three]</li>
-      </ul>
-      <p>
-        <a href="LIVE_LINK">🔗 Live</a> · <a href="REPO_LINK">📂 Repo</a>
-      </p>
+
+### 🎓 Human Edge — LMS
+
+Comprehensive EdTech and Learning Management System focused on interactive learning experiences.
+
+**Tech:** `React` `TypeScript` `Redux Toolkit` `Radix UI` `.NET` `SignalR`
+
+* Built interactive scenario-based quizzes
+* Developed drag-and-drop question builders
+* Implemented adaptive video streaming using **HLS/DASH**
+* Integrated real-time functionality through **SignalR**
+
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h4>🍕 Pizza World</h4>
-      <p>E-commerce platform with cart, checkout, and order management.</p>
-      <p><b>Role:</b> [YOUR_ROLE]</p>
-      <p><b>Tech:</b> <code>[TECH_1]</code> <code>[TECH_2]</code> <code>[TECH_3]</code></p>
-      <ul>
-        <li>[Key feature one]</li>
-        <li>[Key feature two]</li>
-        <li>[Key feature three]</li>
-      </ul>
-      <p>
-        <a href="LIVE_LINK">🔗 Live</a> · <a href="REPO_LINK">📂 Repo</a>
-      </p>
+
+### 🧑‍⚕️ Life Rishi
+
+Full-stack platform and administrative dashboard built within a monorepo architecture.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `NestJS` `Prisma` `PostgreSQL`
+
+* Implemented role-based access control
+* Integrated **TanStack Query** for server-state management
+* Added real-time video and chat capabilities using **Stream SDK**
+* Used Biome to maintain consistent code quality
+
     </td>
+
     <td width="50%" valign="top">
-      <h4>🚗 Pokhara Motors</h4>
-      <p>Auto parts marketplace with catalog browsing and search.</p>
-      <p><b>Role:</b> [YOUR_ROLE]</p>
-      <p><b>Tech:</b> <code>[TECH_1]</code> <code>[TECH_2]</code> <code>[TECH_3]</code></p>
-      <ul>
-        <li>[Key feature one]</li>
-        <li>[Key feature two]</li>
-        <li>[Key feature three]</li>
-      </ul>
-      <p>
-        <a href="LIVE_LINK">🔗 Live</a> · <a href="REPO_LINK">📂 Repo</a>
-      </p>
+
+### 🏥 Vatsalya IVF
+
+Responsive healthcare website focused on performance, accessibility and a clean user experience.
+
+**Tech:** `Next.js` `Tailwind CSS` `Redux` `Framer Motion`
+
+* Built responsive interfaces across devices
+* Implemented centralized state management
+* Added smooth UI animations and interactions
+* Focused on performance and usability
+
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚡ Electricity Regulatory Commission — Nepal
+
+Responsive website developed for the **Electricity Regulatory Commission of Nepal**.
+
+**Tech:** `Next.js` `Tailwind CSS` `Redux` `Framer Motion`
+
+* Developed responsive public-facing interfaces
+* Implemented state management with Redux
+* Added interactive animations
+* Focused on clean information architecture and usability
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 🏗️ Dubai Approvals
+
+Web platform showcasing engineering and architectural services along with authority compliance information.
+
+**Tech:** `React` `Next.js` `Tailwind CSS`
+
+* Developed responsive frontend interfaces
+* Converted design requirements into reusable UI components
+* Collaborated with senior developers throughout implementation
+* Improved usability across desktop and mobile devices
+
+    </td>
+  </tr>
+
 </table>
 
-👉 More on [github.com/manishpun08](https://github.com/manishpun08)
+---
 
-<br/>
+## 🏆 Certifications
 
-### 💻 Most Used Languages
+* Meta — Professional Certification
+* Broadway Infosys — Professional Certification
+
+---
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in working on **scalable web applications, frontend architecture, performance optimization, and challenging product engineering problems**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishpun08&layout=compact&hide_border=true&theme=tokyonight" />
+  <a href="https://manishpunmagar.com.np">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/manish-pun-magar-b3ba83245/">💼 LinkedIn</a> •
+  <a href="mailto:manishpunmagar6@gmail.com">📧 Email</a>
 </p>
 
 <br/>
